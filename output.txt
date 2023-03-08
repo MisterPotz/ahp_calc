@@ -83,3 +83,17 @@
 	\end{center}
 	\caption{implementation cost}
 \end{table}
+\begin{table}
+	\begin{center}
+		\begin{tabular}{l|c}
+			Comparison matrix & Consistency ratio (\%) \\
+			\hline
+			criteria &  2.6 \% \\
+			covered users &  5.8 \% \\
+			implementation speed &  5.2 \% \\
+			convenience for users &  5.0 \% \\
+			implementation cost &  7.7 \% \\
+		\end{tabular}
+	\end{center}
+	\caption{Consistency Ratios}
+\end{table}
