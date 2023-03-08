@@ -1,4 +1,15 @@
-\begin{table}
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath} 
+
+\title{AHP}
+\author{Alexander Gornostaev}
+\date{March 2023}
+
+\begin{document}
+
+\maketitle
+    \begin{table}
 	\begin{center}
 		\begin{tabular}{|c|c|c|c|}
 			\hline
@@ -97,3 +108,4 @@
 	\end{center}
 	\caption{Consistency Ratios}
 \end{table}
+\end{document}
